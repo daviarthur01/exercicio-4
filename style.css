@@ -1,0 +1,44 @@
+#App {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+}
+
+body {
+    background: linear-gradient(270deg, orange, red);
+}
+
+#inpput {
+    width: 200px;
+    margin: auto;
+    margin-top: 30px;
+    border: transparent;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 11px 9px 20px 0px #1e1e1e;
+}
+
+#inpput:hover {
+    box-shadow: 18px 15px 20px 5px #1e1e1e;
+}
+#button {
+    margin: auto;
+    margin-top: 30px;
+    border: transparent;
+    border-radius: 5px;
+    box-shadow: 7px 4px 16px 0px;
+
+}
+
+#button:hover {
+    margin: auto;
+    color: #8d8686;
+    background: orange;
+    border: transparent;
+    margin-top: 30px;
+    border-radius: 12px;
+    box-shadow: 12px 13px 20px 3px #1e1e1e;
+
+}
